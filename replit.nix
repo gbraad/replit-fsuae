@@ -1,0 +1,5 @@
+{ pkgs }: {
+    deps = [
+        nixpkgs.fsuae
+    ];
+}
